@@ -21,7 +21,6 @@ export async function getStaticPaths() {
 
   export default function Thing(postData) {
 
-    console.log(postData);
     let thingData = postData.postData
 
     return (

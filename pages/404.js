@@ -13,7 +13,7 @@ export default function FourOhFour() {
         <ul>
           <li><Link href="things/onething">One Thing</Link></li>
           <li><Link href="things/thingtwo">Thing Two</Link></li>
-          <li><Link href="things/thirdthing">Third Thing (doesn't exist)</Link></li>
+          <li><Link href="things/thirdthing">Third Thing - doesn&apos;t exist</Link></li>
         </ul>
       </section>
 
