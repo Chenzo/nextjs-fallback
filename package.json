@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "static": "next build && next export",
-    "serve": "http-server out"
+    "serve": "http-server out",
+    "export": "next export"
   },
   "dependencies": {
     "next": "12.1.0",
