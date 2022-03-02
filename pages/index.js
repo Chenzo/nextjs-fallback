@@ -12,7 +12,7 @@ export default function Home() {
           <li><Link href="/things/onething">One Thing</Link></li>
           <li><Link href="/things/thingtwo">Thing Two</Link></li>
           <li><Link href="/things/thirdthing">Third Thing - doesn&apos;t exist</Link></li>
-          <li><Link href="/things/thirdthing/what">/things/thirdthing/what - doesn't exist either</Link></li>
+          <li><Link href="/things/thirdthing/what">/things/thirdthing/what - doesn&apos;t exist either</Link></li>
         </ul>
       </section>
 
